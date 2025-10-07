@@ -1,7 +1,9 @@
 # NagusaBot
 
--   现有版本历史遗留问题过多，已经暂时停止维护
--   从零开始重写，更新的-reform-版本仍在开发中，详见[NagusaBot-Reform-](https://github.com/Momoria233/NagusaBot-reformed)
+-   2025/10/07:
+-   现有功能添加完成，该repo已经决定archive。bilibiliRepost因为问题过多不打算开放了
+-   非常感谢各位朋友一路以来对于NagusaBot的帮助与支持 我们Reform版本再见！
+-   点此前往 [NagusaBot-Reform-](https://github.com/Momoria233/NagusaBot-reformed)
 
 ## 现有功能
 
