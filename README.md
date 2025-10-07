@@ -1,7 +1,7 @@
 # NagusaBot
 
--   现有main分支历史遗留问题过多，已经暂时停止维护
--   从零开始重写，更新的-reform-版本仍在开发中，详见reform分支
+-   现有版本历史遗留问题过多，已经暂时停止维护
+-   从零开始重写，更新的-reform-版本仍在开发中，详见[NagusaBot-Reform-](https://github.com/Momoria233/NagusaBot-reformed)
 
 ## 现有功能
 

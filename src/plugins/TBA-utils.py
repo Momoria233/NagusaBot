@@ -10,6 +10,11 @@ from nonebot.typing import T_State
 
 
 """
+以下为来自第一个可运行版本的留言 有点古老了
+
+
+
+
 这里是一些在https://onebot.adapters.nonebot.dev/docs/api/v11/index以及https://github.com/botuniverse/onebot-11/blob/master/event/README.md找到的有趣的事件
 如果之后有相应想法的话可以扩充成单独的plugin
 

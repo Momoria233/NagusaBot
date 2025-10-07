@@ -362,6 +362,6 @@ async def baijianL(bot: Bot, event: GroupMessageEvent, state: T_State):
     user_id = event.get_user_id()
     at = MessageSegment.at(user_id)
     if user_id == "1051575616":
-        await baijian.finish(message=Message([at," 速速拜见岁大王！"]))
+        await baijian.finish(message=Message([at," 拜见岁大王！"]))
     else:
         await baijian.finish()
